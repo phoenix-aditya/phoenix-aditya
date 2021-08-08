@@ -1,7 +1,7 @@
 # Hello there 👋 I'm Aditya Ranaut
 <br />
 
-[![Github](https://img.shields.io/github/followers/parvg555?label=Follow&style=social)](https://github.com/parvg555) &nbsp; ![views](https://komarev.com/ghpvc/?username=parvg555)
+[![Github](https://img.shields.io/github/followers/phoenix-aditya?label=Follow&style=social)](https://github.com/phoenix-aditya) &nbsp; ![views](https://komarev.com/ghpvc/?username=phoenix-aditya)
 
 ## 🎓 I'm a Computer Science student at Thapar Institute of engineering & technology
 
