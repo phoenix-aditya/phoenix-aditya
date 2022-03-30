@@ -1,4 +1,4 @@
-# "Its a feature, not a bug"
+# It's a feature, not a bug
 <br />
 
 [![Github](https://img.shields.io/github/followers/phoenix-aditya?label=Follow&style=social)](https://github.com/phoenix-aditya) &nbsp; ![views](https://komarev.com/ghpvc/?username=phoenix-aditya)
@@ -12,7 +12,3 @@
 </p>
 
 <br />
-
-## ⚙️  GitHub Analytics
-
-![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-aditya&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-aditya&theme=dark)
