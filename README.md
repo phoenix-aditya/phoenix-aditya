@@ -1,3 +1,2 @@
-## It's a feature, not a bug
-<br />
+# It's a feature, not a bug
 
